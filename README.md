@@ -1,3 +1,3 @@
-Bài tập môn Python
+Bài tập Python
 
-![Image](https://github.com/user-attachments/assets/2de93b5a-108e-4ba4-a229-afe168a1365b)
+![Image](https://github.com/user-attachments/assets/f5fb5cf4-387a-4978-bae2-fe6107811721)
