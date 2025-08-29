@@ -1,0 +1,7 @@
+- `/`: Chia lấy kết quả là số thực. Ví dụ: `5 / 2` → `2.5`
+- `//`: Chia lấy phần nguyên. Ví dụ: `5 // 2` → `2`
+- `%`: Chia lấy phần dư. Ví dụ: `5 % 2` → `1`
+- `**`: Lũy thừa. Ví dụ: `2 ** 3` → `8`
+- `and`: Toán tử logic "và", trả về `True` nếu cả hai biểu thức đều đúng.
+- `or`: Toán tử logic "hoặc", trả về `True` nếu ít nhất một biểu thức đúng.
+- `is`: So sánh hai đối tượng có cùng vị trí trong bộ nhớ hay

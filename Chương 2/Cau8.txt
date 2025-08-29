@@ -1,0 +1,17 @@
+Các loại lỗi khi lập trình Python:
+
+1. **Lỗi cú pháp (Syntax Error)**: Do viết sai quy tắc ngôn ngữ, ví dụ thiếu dấu hai chấm, dấu ngoặc.
+2. **Lỗi thực thi (Runtime Error)**: Xảy ra khi chương trình đang chạy, ví dụ chia cho 0, truy cập phần tử không tồn tại.
+3. **Lỗi logic (Logic Error)**: Chương trình chạy nhưng kết quả không đúng như mong muốn.
+
+Cách bắt lỗi trong Python: sử dụng khối `try...except` để xử lý ngoại lệ.
+
+Ví dụ:
+```python
+try:
+    x = int(input("Nhập số: "))
+    print(10 / x)
+except ValueError:
+    print("Bạn phải nhập số nguyên!")
+except ZeroDivisionError:
+    print("Không được chia cho 0!")
